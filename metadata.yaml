@@ -1,0 +1,37 @@
+_repo: Hop-O-My-Thumb_69237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Samachson, Joseph
+    aliases:
+    - Sterling, Brett
+    - Morrison, William
+    - Samachson, Joe
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '33434'
+    url: http://www.gutenberg.org/2009/agents/33434
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Samachson
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69237'
+language: en
+pgterms:marc905: 20220528100649morrison
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Popular Publications, Inc.,1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Diplomats -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Hop O' My Thumb
+url: http://www.gutenberg.org/ebooks/69237
